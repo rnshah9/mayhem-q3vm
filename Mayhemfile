@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-q3vm
+target: a3vm
+
+cmds:
+  - cmd: /repo/q3vm @@
+    filepath: /test.qvm
